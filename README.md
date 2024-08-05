@@ -3,12 +3,12 @@
 Current Tech Stack:
 
 BackEnd:
-JAVA
-SpringBoot
+JAVA,
+SpringBoot,
 Lombok
 
 FrontEnd:
-JSP
+JSP,
 JSTL
 
 
